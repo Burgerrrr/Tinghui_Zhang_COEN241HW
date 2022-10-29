@@ -1,0 +1,14 @@
+figlit.png:
+screenshot of invoking the figlet function
+
+gateway.png:
+screenshot of faas after deployment
+
+journalctl.png:
+screenshot of running the  "journalctl -u faasd --lines 40"
+
+slack-request:
+screenshot of invoking slack-request functions
+
+slack-interactive
+screenshot of invoking  slack-interactive functions
